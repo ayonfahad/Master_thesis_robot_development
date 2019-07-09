@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1467"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="scenario2.svg">
+  <defs
+     id="defs1461">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path888"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1241"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1239"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.81751345"
+     inkscape:cx="282.09833"
+     inkscape:cy="406.7479"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1464">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.297;fill:#e60000;fill-opacity:1;stroke:#e60000;stroke-width:0.43521434;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815"
+       width="52.437363"
+       height="42.454964"
+       x="117.98073"
+       y="166.66609"
+       ry="1.1954942" />
+    <rect
+       style="opacity:0.297;fill:#0019ff;fill-opacity:1;stroke:#0019ff;stroke-width:0.43521434;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-9"
+       width="52.437363"
+       height="42.454964"
+       x="13.10601"
+       y="166.66609"
+       ry="1.1954942" />
+    <rect
+       style="opacity:0.297;fill:#aaff15;fill-opacity:1;stroke:#aaff15;stroke-width:0.435;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-4"
+       width="52.437363"
+       height="42.454964"
+       x="65.543373"
+       y="166.66609"
+       ry="1.1954942" />
+    <circle
+       style="opacity:0.297;fill:#ff0e00;fill-opacity:1;stroke:#ff0e00;stroke-width:0.435;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path846"
+       cx="143.30797"
+       cy="184.98204"
+       r="9.1505289" />
+    <circle
+       style="opacity:0.297;fill:#a6ff09;fill-opacity:1;stroke:#7bf40a;stroke-width:0.435;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path846-8"
+       cx="38.908752"
+       cy="154.20299"
+       r="9.1505289" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="69.687805"
+       y="217.00888"
+       id="text873"><tspan
+         sodipodi:role="line"
+         id="tspan871"
+         x="69.687805"
+         y="217.00888"
+         style="stroke-width:0.26458332">Periodic tables</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="84.661407"
+       y="112.19373"
+       id="text877"><tspan
+         sodipodi:role="line"
+         id="tspan875"
+         x="84.661407"
+         y="112.19373"
+         style="stroke-width:0.26458332">Atoms</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="M 83.829529,115.10526 47.227417,142.97279"
+       id="path879"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="25.598896"
+       y="202.45123"
+       id="text1317"><tspan
+         sodipodi:role="line"
+         id="tspan1315"
+         x="25.598896"
+         y="202.45123"
+         style="stroke-width:0.26458332">Blueium</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="79.670204"
+       y="203.2831"
+       id="text1321"><tspan
+         sodipodi:role="line"
+         id="tspan1319"
+         x="79.670204"
+         y="203.2831"
+         style="stroke-width:0.26458332">Greenium</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="133.7415"
+       y="202.86717"
+       id="text1325"><tspan
+         sodipodi:role="line"
+         id="tspan1323"
+         x="133.7415"
+         y="202.86717"
+         style="stroke-width:0.26458332">Redium</tspan></text>
+    <circle
+       style="opacity:0.297;fill:#0019ff;fill-opacity:1;stroke:#7bf40a;stroke-width:0.435;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path846-86"
+       cx="38.265842"
+       cy="185.11398"
+       r="9.1505289" />
+  </g>
+</svg>
